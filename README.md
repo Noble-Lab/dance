@@ -42,4 +42,4 @@ If you have any questions or suggestions about the code or manuscript, please do
 and Prof. William Noble(`william-noble@uw.edu`). 
 
 # Citation
-Y.Y. Lu*, W. Guo*, X. Xin^, W.S. Noble^ (2021). "DANCE: Enhancing saliency maps using decoys". International Conference on Machine Learning (ICML)
+Y.Y. Lu#, W. Guo#, X. Xin^, W.S. Noble^ (2021). "DANCE: Enhancing saliency maps using decoys". International Conference on Machine Learning (ICML)
